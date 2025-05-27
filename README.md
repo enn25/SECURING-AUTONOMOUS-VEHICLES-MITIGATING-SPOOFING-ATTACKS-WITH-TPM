@@ -162,3 +162,8 @@ Launch Foxglove Studio and connect it to:
   <img src="https://github.com/user-attachments/assets/5ca67086-a7b3-427c-9813-4f2ccb3913fe" alt="spoof_detection" width="400"/>
 </div>
 
+## 📸 Recordings
+
+https://github.com/user-attachments/assets/9fcae46d-5a75-41be-bf72-870c348e1d7a
+
+
