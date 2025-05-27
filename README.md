@@ -1,6 +1,5 @@
 # 🚗 Securing Autonomous Vehicles: Mitigating Spoofing Attacks with TPM
 
-![Prototype Vehicle](images/prototype_vehicle.jpg)
 
 This repository contains the ROS 2 (Jazzy) implementation of a secure, miniature autonomous vehicle system using YDLIDAR X2, OE-28 rotary encoders, a smartphone IMU, and spoof detection mechanisms powered by a Trusted Platform Module (TPM).
 
@@ -61,8 +60,6 @@ This repository contains the ROS 2 (Jazzy) implementation of a secure, miniature
 ---
 
 ## 🧭 System Architecture
-
-![System Architecture](images/system_architecture.jpg)
 
 - Sensor data from LiDAR, camera, and encoders is processed by ROS nodes.
 - IMU data is streamed from smartphone.
@@ -137,8 +134,6 @@ Launch Foxglove Studio and connect it to:
 - `/lidar_spoofing_alert` (alerts)
 - Custom control buttons for spoof injection
 
-![Foxglove Dashboard](images/foxglove_dashboard.jpg)
-
 ---
 
 ## 🧪 Testing Summary
@@ -151,13 +146,17 @@ Launch Foxglove Studio and connect it to:
 | Spoof Detection       | 92.5% accuracy, 0.27s latency |
 | Dashboard             | Real-time & interactive      |
 
----
 
 ## 📸 Images
+---![DFD level2](https://github.com/user-attachments/assets/24ee62dd-a378-4d43-80be-b8e560399370)
 
-Upload the following images in `images/` directory and update links:
-- `prototype_vehicle.jpg`
-- `foxglove_dashboard.jpg`
-- `system_architecture.jpg`
-- `spoof_output.jpg`
-- `cartographer_map.jpg`
+![model_side](https://github.com/user-attachments/assets/2911b7e3-fa3c-4c27-b911-87a889d5f7ce)
+
+![model_up](https://github.com/user-attachments/assets/74d5970b-8dd8-43c0-bfb1-6c71b4545199)
+
+![cartographer](https://github.com/user-attachments/assets/e3ccf230-5f5c-4d1d-b6a4-76bc9d470168)
+
+![Fox_dashboard](https://github.com/user-attachments/assets/7c58dfcf-87f3-4379-b7ff-9b731a8e641e)
+
+![spoof_detection](https://github.com/user-attachments/assets/5ca67086-a7b3-427c-9813-4f2ccb3913fe)
+
