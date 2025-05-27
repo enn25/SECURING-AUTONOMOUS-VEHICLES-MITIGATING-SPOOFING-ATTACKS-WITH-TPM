@@ -1,0 +1,67 @@
+Visualization Manager:
+  Class: ""
+  Displays:
+    - Class: rviz_default_plugins/Grid
+      Name: Grid
+      Enabled: true
+      Cell Size: 1
+      Color: 160; 160; 160
+      Alpha: 0.5
+
+    - Class: rviz_default_plugins/TF
+      Name: TF
+      Enabled: true
+      Show Arrows: true
+      Show Axes: true
+      Show Names: true
+
+    - Class: rviz_default_plugins/Odometry
+      Name: Odometry
+      Enabled: true
+      Topic: /odom
+      Color: 255; 25; 0
+      Keep: 100
+      Shaft Length: 0.1
+      Shaft Radius: 0.02
+      Head Length: 0.1
+      Head Radius: 0.03
+      Position Tolerance: 0.1
+      Angle Tolerance: 0.1
+
+    - Class: rviz_default_plugins/Imu
+      Name: IMU
+      Enabled: true
+      Topic: /imu/data_raw
+      Show Acceleration: true
+      Show Angular Velocity: true
+      Show Orientation: false
+      Acceleration Arrow Color: 0; 255; 255
+      Angular Velocity Arrow Color: 255; 100; 255
+      Alpha: 1.0
+
+    - Class: rviz_default_plugins/Axes
+      Name: Base Frame Axes
+      Enabled: true
+      Length: 0.5
+      Radius: 0.02
+
+  Enabled: true
+  Global Options:
+    Background Color: 48; 48; 48
+    Fixed Frame: odom
+
+  Tools:
+    - Class: rviz_default_plugins/Interact
+    - Class: rviz_default_plugins/MoveCamera
+    - Class: rviz_default_plugins/Select
+    - Class: rviz_default_plugins/FocusCamera
+    - Class: rviz_default_plugins/Measure
+    - Class: rviz_default_plugins/SetInitialPose
+    - Class: rviz_default_plugins/SetGoal
+
+  Views:
+    Current:
+      Class: rviz_default_plugins/TopDownOrtho
+      Name: TopDown
+      Angle: 0
+      Scale: 10
