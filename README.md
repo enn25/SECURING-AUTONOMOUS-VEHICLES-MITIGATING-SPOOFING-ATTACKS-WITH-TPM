@@ -148,15 +148,17 @@ Launch Foxglove Studio and connect it to:
 
 
 ## 📸 Images
----![DFD level2](https://github.com/user-attachments/assets/24ee62dd-a378-4d43-80be-b8e560399370)
-
-![model_side](https://github.com/user-attachments/assets/2911b7e3-fa3c-4c27-b911-87a889d5f7ce)
-
-![model_up](https://github.com/user-attachments/assets/74d5970b-8dd8-43c0-bfb1-6c71b4545199)
-
-![cartographer](https://github.com/user-attachments/assets/e3ccf230-5f5c-4d1d-b6a4-76bc9d470168)
-
-![Fox_dashboard](https://github.com/user-attachments/assets/7c58dfcf-87f3-4379-b7ff-9b731a8e641e)
-
-![spoof_detection](https://github.com/user-attachments/assets/5ca67086-a7b3-427c-9813-4f2ccb3913fe)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/24ee62dd-a378-4d43-80be-b8e560399370" alt="DFD level2" width="400"/>
+  <br/>
+  <img src="https://github.com/user-attachments/assets/2911b7e3-fa3c-4c27-b911-87a889d5f7ce" alt="model_side" width="400"/>
+  <br/>
+  <img src="https://github.com/user-attachments/assets/74d5970b-8dd8-43c0-bfb1-6c71b4545199" alt="model_up" width="400"/>
+  <br/>
+  <img src="https://github.com/user-attachments/assets/e3ccf230-5f5c-4d1d-b6a4-76bc9d470168" alt="cartographer" width="400"/>
+  <br/>
+  <img src="https://github.com/user-attachments/assets/7c58dfcf-87f3-4379-b7ff-9b731a8e641e" alt="Fox_dashboard" width="400"/>
+  <br/>
+  <img src="https://github.com/user-attachments/assets/5ca67086-a7b3-427c-9813-4f2ccb3913fe" alt="spoof_detection" width="400"/>
+</div>
 
