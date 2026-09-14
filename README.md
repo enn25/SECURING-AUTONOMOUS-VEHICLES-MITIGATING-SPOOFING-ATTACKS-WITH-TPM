@@ -36,7 +36,7 @@ This repository contains the ROS 2 (Jazzy) implementation of a secure, miniature
 - **OS**: Ubuntu Server 24.04 (64-bit)
 - **ROS 2**: Jazzy
 - **SLAM**: Google Cartographer
-- **Machine Learning**: PyTorch (Random Forest Classifier for spoof detection)
+- **Machine Learning**: Random Forest Classifier for spoof detection
 - **Dashboard**: Foxglove Studio (for live monitoring)
 - **Languages**: Python 3.10+
 - **Visualization**: RViz, Foxglove Studio
